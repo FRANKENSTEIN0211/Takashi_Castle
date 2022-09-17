@@ -617,7 +617,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: STARTER_ASSETS_PACKAGES_CHECKED
+    1: STARTER_ASSETS_PACKAGES_CHECKED;FISHNET
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
